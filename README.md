@@ -26,7 +26,7 @@ To run this programm, the required input data are :
 >    - Gacos atmospheric model at date1 
 >    - Gacos atmospheric model at date2 
 
-### Functiuns 
+### Functions 
 To correct the input interferogramm from atmospheric noise with GACOS data, run the function call
-`Gacos_correction_tiff.py` wich is the main programm who call different other functiuns.
+`Gacos_correction_tiff.py` wich is the main programm who call different other functions.
 You will need to modify the different paths.
